@@ -1,0 +1,2 @@
+# MyTheme
+My BetterDiscord theme
